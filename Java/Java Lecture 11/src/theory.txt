@@ -1,0 +1,35 @@
+What is Object-Oriented Programming?
+Ans: Object Oriented programming is a programming paradigm based on the concepts on the Objects.It's used to structure the software in a way that real-world life example.It helps to manage the codebase
+🚀 Benefit of OOPS?
+    1.Easier to maintain and scale
+    2.Reusable code
+    3.Models real-world better
+    4.Clean and organized structure
+
+
+What is Class?
+Ans: Class is User-defined blueprint with some properties with behaviours.For Example the blueprint of car model is Class.
+
+What is an Object?
+Ans: Objects are instance of class. when you create car using this blueprint it's called an Object.
+
+Example:
+    class Car{
+     // properties
+        model_name
+        price
+        release_year
+        color
+
+     // Methods/ behaviours
+        accelerate
+        break
+        steering
+        open-trunk
+    }
+
+You have to think when creating a class
+    1. Access-modifiers --> public, protected,private,default
+    2. class keyword
+    3. class name
+    4. class body
