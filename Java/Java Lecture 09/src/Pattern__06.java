@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Pattern_06 {
+public class Pattern__06 {
   public static void main(String[] args) {
     System.out.println("Pattern Problem: Numerical Rectangular");
 
